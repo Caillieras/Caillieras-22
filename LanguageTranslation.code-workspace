@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"workbench.colorCustomizations": {
+			"activityBar.activeBackground": "#dabee0",
+			"activityBar.activeBorder": "#978948",
+			"activityBar.background": "#dabee0",
+			"activityBar.foreground": "#15202b",
+			"activityBar.inactiveForeground": "#15202b99",
+			"activityBarBadge.background": "#978948",
+			"activityBarBadge.foreground": "#15202b",
+			"statusBar.background": "#c79bd0",
+			"statusBar.foreground": "#15202b",
+			"statusBarItem.hoverBackground": "#b478c0",
+			"titleBar.activeBackground": "#c79bd0",
+			"titleBar.activeForeground": "#15202b",
+			"titleBar.inactiveBackground": "#c79bd099",
+			"titleBar.inactiveForeground": "#15202b99"
+		},
+		"peacock.color": "#c79bd0"
+	},
+	"extensions": {
+		"recommendations": [
+			"hpi-swa.polyglot-live-programming"
+		]
+	}
+}
